@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/challenge_airbnb_clone/static/css/main.0dd910e2.css",
+    "main.js": "/challenge_airbnb_clone/static/js/main.68a499f1.js",
+    "static/js/787.2690cfec.chunk.js": "/challenge_airbnb_clone/static/js/787.2690cfec.chunk.js",
+    "index.html": "/challenge_airbnb_clone/index.html",
+    "main.0dd910e2.css.map": "/challenge_airbnb_clone/static/css/main.0dd910e2.css.map",
+    "main.68a499f1.js.map": "/challenge_airbnb_clone/static/js/main.68a499f1.js.map",
+    "787.2690cfec.chunk.js.map": "/challenge_airbnb_clone/static/js/787.2690cfec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd910e2.css",
+    "static/js/main.68a499f1.js"
+  ]
+}
